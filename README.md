@@ -5,7 +5,7 @@
 
 <!--🔭 I’m currently working on -->
 
--🌱 I’m currently learning NLP,Full Stack MERN development.
+-🌱 I’m currently learning Full Stack MERN development.
 
 -👯 I’m looking to collaborate on Challenging Projects.
 <!-- 🤔 I’m looking for help with ... -->
