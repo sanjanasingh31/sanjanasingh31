@@ -4,7 +4,7 @@
                  Machine Learning Curator.
 
 
-🔭 I’m currently working on MERN  Stack base social media platform.
+🔭 I’m  working on MERN  Stack base social media platform.
 
 🌱 I’m currently learning Full Stack MERN development.
 
