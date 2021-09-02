@@ -1,17 +1,20 @@
 ### Hello,I am Sanjana Singh 👋
 
-                 ASPIRING SOFTWARE DEVELOPER, DATA SCIENTIST.
+                 ASPIRING SOFTWARE DEVELOPER Engineer.
+                 Machine Learning Curator.
 
 
-<!--🔭 I’m currently working on -->
+🔭 I’m currently working on MERN  Stack base social media platform.
 
--🌱 I’m currently learning Full Stack MERN development.
+🌱 I’m currently learning Full Stack MERN development.
 
 -👯 I’m looking to collaborate on Challenging Projects.
-<!-- 🤔 I’m looking for help with ... -->
-<!--💬 Ask me about Coding.-->
+ 🤔 I’m looking for help with Information Security Project.
+💬 Ask me about Problem Solving,Data Structures,Algorithms.
 
--📫 How to reach me: gmail:singhsanjana3104@gmail.com
+-📫 How to reach me: gmail:singhsanjana3104@gmail.com    
+                  Linkedin:https://www.linkedin.com/in/sanjana-singh-a50322189/
+
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ...-->
 
