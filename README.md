@@ -9,7 +9,9 @@
 🌱 I’m currently learning Full Stack MERN development.
 
 -👯 I’m looking to collaborate on Challenging Projects.
+
  🤔 I’m looking for help with Information Security Project.
+ 
 💬 Ask me about Problem Solving,Data Structures,Algorithms.
 
 -📫 How to reach me: gmail:singhsanjana3104@gmail.com    
