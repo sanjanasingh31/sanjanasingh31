@@ -1,7 +1,7 @@
 ### Hello,I am Sanjana Singh 👋
 
-                 ASPIRING SOFTWARE DEVELOPER Engineer.
-                 Machine Learning Curator.
+                        ASPIRING SOFTWARE DEVELOPER Engineer.
+                             Data Science Enthusiast.
 
 
 🔭 I’m  working on MERN  Stack base social media platform.
