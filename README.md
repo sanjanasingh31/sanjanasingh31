@@ -16,6 +16,8 @@
 
 -📫 How to reach me: gmail:singhsanjana3104@gmail.com    
                   Linkedin:https://www.linkedin.com/in/sanjana-singh-a50322189/
+                  
+                 medium:https://medium.com/@singhsanjana3104
 
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ...-->
