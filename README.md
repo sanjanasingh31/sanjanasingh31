@@ -1,20 +1,26 @@
 ### Hello,I am Sanjana Singh 👋
 
                         ASPIRING SOFTWARE DEVELOPER Engineer.
-                             Python Developer.
+                              ML/NLP/DL/Data Science/Python.
 
 
-🔭 I’m  working on MERN  Stack base social media platform.
+🔭 I’m  working on various projects including MERN e-commerce,A.I assistant and Competitive Programming.
 
-🌱 I’m currently learning Full Stack MERN development.
+🌱 I work on projects related to Software Development ,Data Science, DL/ML/NLP,Java.
 
--👯 I’m looking to collaborate on Challenging Projects.
+-👯 I’m looking to collaborate with developers.
 
- 🤔 I’m looking for help with Information Security Project.
+ 🤔 I’m looking for help with Golang to add  golang skill to my bag .
+
+🥅 Goals:  To become pro at Competitive Coding,Publish Research Paper,contribute to open source and try ethical hacking.
+
+
  
-💬 Ask me about Problem Solving,Data Structures,Algorithms.
+💬 Ask me about Problem Solving,anything from CSE.
 
--📫 How to reach me: gmail:singhsanjana3104@gmail.com    
+-📫 How to reach me: 
+                   
+                   gmail:singhsanjana3104@gmail.com    
                   Linkedin:https://www.linkedin.com/in/sanjana-singh-a50322189/  
                   medium:https://medium.com/@singhsanjana3104    
               
