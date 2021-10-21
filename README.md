@@ -4,7 +4,7 @@
                               ML/NLP/DL/Data Science/Python.
 
 
-🔭 I’m  working on various projects including MERN e-commerce,A.I assistant and Competitive Programming.
+🔭 I’m  working on various projects including MERN E-learning,A.I assistant and Competitive Programming.
 
 🌱 I work on projects related to Software Development ,Data Science, DL/ML/NLP,Java.
 
